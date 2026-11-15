@@ -1,0 +1,10 @@
+[
+  {
+    "step": "visit",
+    "users": 2
+  },
+  {
+    "step": "buy",
+    "users": 1
+  }
+]
